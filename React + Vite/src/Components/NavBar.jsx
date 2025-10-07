@@ -1,6 +1,8 @@
+import style from './NavBar.module.css';
+
 export function NavBar() {
   return (
-    <nav>
+    <nav className={style.navbars}>
       <ul>
         <li>Início</li>
         <li>Livros</li>
@@ -8,5 +10,5 @@ export function NavBar() {
       </ul>
     </nav>
 
-  );
+  )
 }
