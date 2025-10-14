@@ -4,9 +4,9 @@ export function NavBar() {
   return (
     <nav className={style.navbars}>
       <ul>
-        <li>Início</li>
-        <li>Livros</li>
-        <li>Curiosidade</li>
+        <li><a href="#">Início</a></li>
+        <li><a href="#">Livros</a></li>
+        <li><a href="#">Curiosidade</a></li>
       </ul>
     </nav>
 

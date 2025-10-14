@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Roboto Condensed;
 
 }
 
@@ -17,7 +18,7 @@
 
 .title {
     font-size: 50px;
-    font-family: 'Poppins' sans-serif;
     color: #b9b4bd;
+    font-family: Roboto Condensed;
 
 }
